@@ -44,7 +44,7 @@ const Navbar = () => {
 
           {/* Download CV */}
           <a
-            href="/Rishabh_Jhade_Resume.pdf"
+            href="/anas_resume.pdf"
             download
             className="px-6 py-2 rounded-lg bg-blue-500 hover:bg-blue-600 text-white flex items-center gap-2"
           >

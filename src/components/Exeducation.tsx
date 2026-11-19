@@ -21,6 +21,12 @@ const EducationExperience = () => {
               {/* Education Items */}
               {[
                 {
+                  year: "2026 - till date",
+                  title: "M.Tech CSE (AI)",
+                  institution: "CDAC MOHALI",
+                  extra: "Persuing",
+                },
+                {
                   year: "2021 - 2025",
                   title: "B.Tech in Computer Science & Engineering",
                   institution: "UIT RGPV Shivpuri",
